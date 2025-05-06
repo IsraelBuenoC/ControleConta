@@ -1,0 +1,14 @@
+C:\Users\israel\source\repos\conta\bin\Debug\net8.0\controleconta.exe
+C:\Users\israel\source\repos\conta\bin\Debug\net8.0\controleconta.deps.json
+C:\Users\israel\source\repos\conta\bin\Debug\net8.0\controleconta.runtimeconfig.json
+C:\Users\israel\source\repos\conta\bin\Debug\net8.0\controleconta.dll
+C:\Users\israel\source\repos\conta\bin\Debug\net8.0\controleconta.pdb
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.AssemblyInfoInputs.cache
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.AssemblyInfo.cs
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.csproj.CoreCompileInputs.cache
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.dll
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\refint\controleconta.dll
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.pdb
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\controleconta.genruntimeconfig.cache
+C:\Users\israel\source\repos\conta\obj\Debug\net8.0\ref\controleconta.dll
