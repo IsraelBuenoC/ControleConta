@@ -7,6 +7,25 @@ namespace controleconta
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
         public string CPF { get; set; }
+        
+        private string _cpf;
+        public string CPF
+        {
+            get => _cpf;
+            set
+            {
+                
+                string numeros = Regex.Replace(value, @"[^\d]", "");
+                
+                
+                if (numeros.Length != 11)
+                {
+                    throw new ArgumentException("CPF inválido. Deve conter exatamente 11 dígitos numéricos.");
+                }
+
+                _cpf = value;
+            }
+        }
 
         public Cliente(string nome, DateTime dataNascimento, string cpf)
         {
